@@ -1,0 +1,8 @@
+src/*.js
+lib/*.js
+img/*.png
+options/*.*
+not-just-guys.css
+manifest.json
+README.md
+PRIVACY.md
