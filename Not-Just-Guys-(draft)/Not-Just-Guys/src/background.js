@@ -1,9 +1,9 @@
-var gaService = analytics.getService('JustNotSorryTest');
+var gaService = analytics.getService('NotJustGuys');
 
 chrome.runtime.onInstalled.addListener(function() {
-  var tracker = gaService.getTracker('UA-3535278-4'); // prod
+  var tracker = gaService.getTracker('UA-133174705-1'); // prod
   var timing = tracker.startTiming('Analytics Performance', 'Send Event');
-  tracker.sendAppView('JustNotSorryInstalled');
+  tracker.sendAppView('View');
   timing.send();
 
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {

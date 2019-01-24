@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Not Just Guys -- the Gmail Plug-in",
+  "name": "Not Just Guys (a Gmail Plug-in)",
   "short_name": "NotJustGuys",
   "author": "genEquality",
-  "version": "1.1.1",
-  "description": "A Gmail Plug-in that corrects for masculine default bias in written communications",
+  "version": "1.0",
+  "description": "A Gmail Plug-in that highlights masculine default bias in written communications",
   "icons": { "16": "img/NotJustGuys-16.png",
              "48": "img/NotJustGuys-48.png",
             "128": "img/NotJustGuys-128.png" },
