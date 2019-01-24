@@ -1,7 +1,7 @@
 # Not Just Guys (Gmail Plug-in)
 This Chrome extension corrects for masculine default bias in everyday written communications. 
 
-The Chrome Extension can be found at https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci?hl=en-US
+The Chrome Extension can be found at https://chrome.google.com/webstore/detail/not-just-guys-a-gmail-plu/cafigjcdeapkbklkgijhldplfbmifjim/related
 
 ## Citations
   * https://www.psychologytoday.com/us/blog/beyond-pink-and-blue/201403/the-way-we-talk-about-gender-can-make-big-difference
